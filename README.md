@@ -1,7 +1,7 @@
 # PARACUSIA PRE-PROTOTYPE BUILD
 PARACUSIA is a slow-paced horror-comedy game about mining, primarily inspired by Voices of the Void and Cavern Crusher. Against your will, you must descend into its gaping maw. 
 
-As this is a conceptual build, not all features are in the game yet, and this project far from complete.
+As this is a pre-prototype build, not all features are in the game yet, and this project far from complete.
 
 Only one person is developing all of this (whilst I [the one developing it] am still learning many, many things), so, expect progress to be relatively slow.
 
